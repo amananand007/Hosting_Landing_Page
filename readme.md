@@ -11,4 +11,4 @@
 
 ### The project looks like
 
-![Screenshot](1.png)
+![Screenshot](1.PNG)
